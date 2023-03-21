@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="ciudades">
+        <item translatable = "false">Ciudad</item>
+        <item>Medellin</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Leticia</item>
+        <item>Guajira</item>
+    </string-array>
+</resources>
